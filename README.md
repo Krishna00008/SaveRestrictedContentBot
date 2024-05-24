@@ -8,7 +8,7 @@ Contact: [Telegram](https://t.me/MaheshChauhan)
 
 
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Krishna00008/SaveRestrictedContentBot)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krishnarjun00/SaveRestrictedContentBot)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
